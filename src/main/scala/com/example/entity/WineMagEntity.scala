@@ -1,4 +1,4 @@
-package com.example.json_reader_shitov.entity
+package com.example.entity
 
 case class WineMagEntity(
                           id: Option[Int],

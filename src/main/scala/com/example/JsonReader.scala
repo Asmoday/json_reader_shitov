@@ -1,6 +1,6 @@
-package com.example.json_reader_shitov
+package com.example
 
-import com.example.json_reader_shitov.entity.WineMagEntity
+import com.example.entity.WineMagEntity
 import org.apache.spark.rdd.RDD
 import org.apache.spark.sql.SparkSession
 import org.json4s._
